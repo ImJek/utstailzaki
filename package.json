@@ -1,0 +1,14 @@
+{
+  "name": "uts_tail_zaki",
+  "version": "1.0.0",
+  "description": "UtsTailWind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmad zaki",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
